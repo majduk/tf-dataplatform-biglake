@@ -33,3 +33,5 @@ override.tf.json
 terraform.rc
 backend.tf
 provider.tf
+repo/
+authorized_keys
